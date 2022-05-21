@@ -4,12 +4,12 @@
 Navigate to the sklt.py file
 
 ### Command
-python sklt.py [-h] input thresh prune out \n
+python sklt.py [-h] input thresh prune out <br/>
 
-input : path + name of input image \n
-thresh : segmentation threshold in percentage (0 - 100) \n
-prune : pruning threshold in percentage (0 - 100) \n
-out : path + name of output file \n
+input : path + name of input image <br/>
+thresh : segmentation threshold in percentage (0 - 100) <br />
+prune : pruning threshold in percentage (0 - 100) <br />
+out : path + name of output file <br />
 
 ### Example
 
